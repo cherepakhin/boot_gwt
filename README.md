@@ -11,6 +11,7 @@
 Кроме того, будет открыто dev:
 ![окно с логом](doc/screen_dev_log.png)
 
+# Readme автора [https://github.com/zak905/boot-gwt](https://github.com/zak905/boot-gwt):
 
 ## Dev Mode
 
