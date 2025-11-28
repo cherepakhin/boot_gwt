@@ -5,11 +5,9 @@ import com.google.gwt.user.client.ui.Label;
 import com.google.gwt.user.client.ui.RootPanel;
 
 public class AppEntryPoint implements EntryPoint {
-	
-	
-	public void onModuleLoad() {
-		RootPanel.get().add(new Label("Welcome to Gwt with Spring demo"));
-		
-	}
+
+    public void onModuleLoad() {
+        RootPanel.get().add(new Label("Welcome to Gwt with Spring demo"));
+    }
 
 }
