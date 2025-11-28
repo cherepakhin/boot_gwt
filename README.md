@@ -7,7 +7,9 @@
   
 
 ![окно с логом](doc/screen_index_html.png)
-Кроме того, будет открыто dev ![окно с логом](doc/screen_dev_log.png)
+
+Кроме того, будет открыто dev:
+![окно с логом](doc/screen_dev_log.png)
 
 
 ## Dev Mode
