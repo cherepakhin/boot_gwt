@@ -13,6 +13,20 @@
 Кроме того, будет открыто dev:
 ![окно с логом](doc/screen_dev_log.png)
 
+Ключевые моменты:
+1. Приложение как обычно @SpringBootApplication 
+2. Определена EntryPoint :
+
+````java
+public class AppEntryPoint implements EntryPoint {
+    public void onModuleLoad() {
+        RootPanel.get().add(new Label("Welcome to Gwt with Spring demo"));
+    }
+}
+````
+
+3. В AppEntryPoint к объекту RootPanel (создается автоматически) добавлена Label. 
+
 ## Readme автора [https://github.com/zak905/boot-gwt](https://github.com/zak905/boot-gwt):
 
 ### Dev Mode
