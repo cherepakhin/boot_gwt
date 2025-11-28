@@ -14,7 +14,7 @@
 ![окно с логом](doc/screen_dev_log.png)
 
 Ключевые моменты:
-1. Приложение как обычно @SpringBootApplication 
+1. Приложение как обычно @SpringBootApplication в BootGwtApplication.
 2. Определена EntryPoint :
 
 ````java
