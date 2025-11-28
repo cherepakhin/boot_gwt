@@ -1,7 +1,7 @@
 Простое SprinBootApplication с каким-то отладочным окном с логами.
 Оригинальный проект [https://github.com/zak905/boot-gwt](https://github.com/zak905/boot-gwt)
-1. Сначала запустить `mvn spring-boot:run`
-2. И затем в отдельном shell `mvn gwt:devmode -Pgwt-dev`
+1. Сначала запустить `mvn spring-boot:run` ('run_step1.sh')
+2. И затем в отдельном shell `mvn gwt:devmode -Pgwt-dev ('run_step2.sh')`
 3. Открыть http://127.0.0.1:8080/index.html
 в окне будет строка "Welcome to Gwt with Spring demo"
   
